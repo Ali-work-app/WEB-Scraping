@@ -22,7 +22,7 @@ apt update
 apt upgrade 
 
 
-https://github.com/Ali-work-app/WEB-Scraping
+git clone https://github.com/Ali-work-app/WEB-Scraping
 
 
 ls 
